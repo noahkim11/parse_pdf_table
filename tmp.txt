@@ -1,0 +1,145 @@
+List
+Accounting Clerk
+1223-0
+5
+Administrative Clerk
+1358-0
+4
+Assistant Director Bureau of Street Lighting
+7536-0
+2
+Assistant Street Lighting Electrician
+3809-0
+26
+Cement Finisher
+3353-0
+2
+Cement Finisher Supervisor
+3354-0
+1
+Cement Finisher Worker
+3351-0
+2
+Chief Management Analyst
+9182-0
+1
+Civil Engineering Drafting Technician
+7232-0
+12
+Director of Street Lighting
+9265-0
+1
+Electrical Craft Helper
+3799-0
+57
+Executive Administrative Assistant II
+1117-2
+1
+Executive Administrative Assistant III
+1117-3
+1
+Geographic Information Systems Specialist
+7213-0
+4
+Geographic Information Systems Supervisor I
+7214-1
+1
+Improvement Assessor
+1562-0
+0
+Improvement Assessor Supervisor I
+1564-1
+2
+Improvement Assessor Supervisor II
+1564-2
+1
+Information Systems Manager I
+1409-1
+1
+Maintenance and Construction Helper
+3115-0
+9
+Management Analyst
+9184-0
+2
+Management Analyst
+9184-0
+2
+Management Assistant
+1539-0
+3
+Management Assistant
+1539-0
+1
+Mechanical Helper
+3771-0
+1
+Office Engineering Technician II
+7212-2
+1
+Office Engineering Technician III
+7212-3
+3
+Payroll Supervisor I
+1170-1
+1
+Principal Storekeeper
+1839-0
+1
+Senior Administrative Clerk
+1368-0
+3
+Senior Civil Engineering Drafting Technician
+7207-0
+2
+Senior Management Analyst I
+9171-1
+4
+Senior Storekeeper
+1837-0
+1
+Senior Street Lighting Engineer
+9536-0
+3
+Senior Systems Analyst I
+1597-1
+4
+Storekeeper II
+1835-2
+2
+Street Lighting Construction and Maintenance Supt I
+3820-1
+2
+Street Lighting Construction and Maintenance Supt II
+3820-2
+1
+Street Lighting Electrician
+3811-0
+52
+Street Lighting Electrician Supervisor I
+3840-1
+11
+Street Lighting Engineer
+7537-0
+13
+Street Lighting Engineering Associate II
+7527-2
+58
+Street Lighting Engineering Associate III
+7527-3
+22
+Street Lighting Engineering Associate IV
+7527-4
+5
+Student Worker
+1501-0
+1
+Systems Analyst
+1596-0
+3
+Warehouse and Toolroom Worker I
+1832-1
+1
+Welder
+3796-0
+4
